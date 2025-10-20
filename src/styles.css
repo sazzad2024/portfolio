@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ensure body uses full height for bg colors */
+html, body, #root {
+  height: 100%;
+}
+
+
